@@ -4,9 +4,9 @@
 
 <h2>📱 Telas do Aplicativo</h2>
 
-<li><strong>Home Screen</strong>: Interface inicial para navegar pelas opções.</li>
-<li><strong>Verses Screen</strong>: Lista de versículos organizados por tema.</li>
-<li><strong>Anotation Screen</strong>: Espaço para criar e gerenciar anotações.</li>
+<li><strong>Menu Inicial</strong>: Interface inicial para navegar pelas opções.</li>
+<li><strong>Tela dos Versículos</strong>: Lista de versículos organizados por tema.</li>
+<li><strong>Tela de Anotações</strong>: Espaço para criar e gerenciar anotações.</li>
 
 <h2>📂 Estrutura do Projeto</h2>
 
@@ -89,7 +89,7 @@ git push origin feature/seu-usuario-contribution
 
 <h2>©️ Licença</h2>
 
-Este projeto é distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE.md) para mais informações.
+Este projeto é distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
 
 <h2>🙌 Agradecimentos</h2>
 <p>Agradecemos a todos os envolvidos na criação desse projeto e ao Professor Gustavo Molina Figueiredo por criar esse desafio. Que ele seja uma ferramenta útil para sua jornada espiritual! 🌟</p>
@@ -97,7 +97,7 @@ Este projeto é distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LI
 
 <h2>Participantes</h2>
 
-- Gabriel de Sá
+- [Gabriel de Sá](https://github.com/Sazim21)
 - [Gabriel Venturini](https://github.com/Gabriel-Venturini)
-- Matheus Marques
+- [Matheus Marques](https://github.com/RollDack)
 - [Ygor Martins](https://github.com/YgorMartinsXx)
