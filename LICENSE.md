@@ -1,3 +1,5 @@
+MIT License
+
 Copyright (c) 2024 <br>
 Gabriel de Sá <br>
 Gabriel Venturini <br>
